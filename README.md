@@ -1,7 +1,7 @@
 <h1> Minecart </h1> <img src="minecartLogo.png">
 <h2> Open Source alternative to Vex Robotics drivetrain. </h2>
 <p>
-  Minecart is a library that can be used in place of the built-in drivetrain functions in vexcode <br>
+  Minecart is a library that can be used in place of the built-in drivetrain functions in vexcode, Not to be confused with Mineshaft <br>
   <br>
   Currently, Minecart supports:<br>
 <ul>
