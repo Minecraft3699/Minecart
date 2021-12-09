@@ -1,4 +1,4 @@
-<h1> Minecart </h1> <img src="minecartLogo.png" width="480" height="240" alt="Minecart Logo, failed to load, probably blocked">
+<h1> Minecart </h1>
 <h2> Open Source alternative to Vex Robotics drivetrain. </h2>
 <p>
   Minecart is a library that can be used in place of the built-in drivetrain functions in vexcode, Not to be confused with Mineshaft <br>
@@ -6,8 +6,8 @@
   Currently, Minecart supports:<br>
 <ul>
   <li> 2 And 4 Wheel Drive </li>
-  <li> Use of Motors Outside of Minecart </li>
-  <li> Variables for Wheel Diameter </li>
+  <li> Inertial Based Turning </li>
+  <li> Variable Wheel Diameter </li>
   <li> Accurate Forward / Backward Movement </li>
 </ul>
 <br>
