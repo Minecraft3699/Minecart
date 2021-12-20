@@ -3,6 +3,8 @@
 <p>
   Minecart is a library that can be used in place of the built-in drivetrain functions in vexcode, Not to be confused with Mineshaft <br>
   <br>
+  Minecart is very early in development, the library will become far more useful in the future.
+  <br>
   Currently, Minecart supports:<br>
 <ul>
   <li> 2 And 4 Wheel Drive </li>
