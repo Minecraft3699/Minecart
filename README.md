@@ -23,4 +23,18 @@
 <br>
 <br>
 <h1> How to use Minecart </h1>
-<p> Documentation is W.I.P, will be done soon, sorry! </p>
+<p> Documentation is W.I.P, and will be more extensive.. but here is an example of how to use Minecart</p>
+<br>
+<br>
+```cpp
+#include minecartXXX.h
+
+minecartDriver mainDrive;
+mainDrive.fourWheel = true;
+mainDrive.useGyro = true;
+
+mainDrive.rawDrive(25,50); // Inputs are in inches, I'm sorry, update soon for metric
+mainDrive.rawTurn(90); // Use negative numbers to turn left
+
+
+```
