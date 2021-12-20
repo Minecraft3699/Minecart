@@ -23,7 +23,9 @@
 <br>
 <br>
 <h1> How to use Minecart </h1>
-<p> Documentation is W.I.P, and will be more extensive.. but here is an example of how to use Minecart</p>
+<p> Documentation is W.I.P<br>
+  Documentation will become more extensive as more features are introduced.
+</p>
 <br>
 <br>
 
