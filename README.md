@@ -17,6 +17,10 @@
   <li> Raw Turning, Without sensors </li>
   <li> PID Driving for even more precise movement </li>
   <li> Printing useful data on the controller
-  <li> Goto coordinates, GPS based </li>
+  <li> Goto coordinates, GPS based </li> 
   <li> And More... </li>
 </ul>
+<br>
+<br>
+<h1> How to use Minecart </h1>
+<p> Documentation is W.I.P, will be done soon, sorry! </p>
