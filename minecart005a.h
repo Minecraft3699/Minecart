@@ -10,9 +10,8 @@ _____________________________________________________
 
 v0.0.5a - The Rotation Update
 ---------------------------------
-By: Dylan Dirkes | Minecraft#3699
+By: Dylan Dirkes (84443B)
 ---------------------------------
-
 
 
 Minecart is an advanced, easy to use alternative to Drivetrain
