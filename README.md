@@ -11,6 +11,7 @@
   <li> Inertial Based Turning </li>
   <li> Variable Wheel Diameter </li>
   <li> Accurate Forward / Backward Movement </li>
+  <li> Tower Seeking (Only one code, W.I.P) </li>
 </ul>
 <br>
 <p> Planned Features: <br> </p>
